@@ -1,0 +1,56 @@
+body{
+  font-family:Arial;  
+background-color: lightgreen;
+
+}
+h1{
+
+    color: blueviolet;
+text-align: center;
+}
+
+p{
+     color: blue;
+     font-family: 'Times New Roman', Times, serif;
+    text-align: right;    
+    
+}
+
+button{
+    background: black;
+    color: white;
+    padding: 10px;
+}
+
+.first {
+         color: brown;
+         text-align: left;
+
+}
+
+.second{
+    color: blue;
+    text-align: right;
+
+}
+#first{
+    color: darkgoldenrod;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+
+}
+
+.box{
+
+    border: 2px solid black;
+    margin: 40px;
+    padding: 10px;
+    background-color: yellow;
+    text-align: center;
+ }
+
+ .container{
+    display: flex;
+    /" justify-content: space-between; *"
+
+}
